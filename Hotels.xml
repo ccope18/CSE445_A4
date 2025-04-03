@@ -1,0 +1,149 @@
+<Hotels
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="Hotels.xsd">
+    <Hotel>
+        <Name>Aloft Phoenix Airport</Name>
+        <Phone>602-275-6300</Phone>
+        <Address>
+            <Number>4450</Number>
+            <Street>E Washington St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85034</Zip>
+            <NearstAirport>Sky Harbor Intl</NearstAirport>
+        </Address>
+        <Rating>8.8</Rating>
+    </Hotel>    
+    <Hotel>
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address>
+            <Number>11</Number>
+            <Street>E. 7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+            <NearstAirport>Sky Harbor</NearstAirport>
+        </Address>
+        <Rating>4.2</Rating>
+    </Hotel>        
+    <Hotel>
+        <Name>AC Hotel by Marriott Phoenix Biltmore</Name>
+        <Phone>602-852-6500</Phone>
+        <Address>
+            <Number>2811</Number>
+            <Street>E Camelback Rd</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85016</Zip>
+            <NearstAirport>Sky Harbor</NearstAirport>
+        </Address>
+        <Rating>9.4</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>Marriott Phoenix Airport</Name>
+        <Phone>602-273-7373</Phone>
+        <Address>
+            <Number>1101</Number>
+            <Street>N. 44th St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85008</Zip>
+            <NearstAirport>Sky Harbor</NearstAirport>
+        </Address>
+        <Rating>9.2</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>Sentral Alloy Midtown</Name>
+        <Phone>833-584-1129</Phone>
+        <Address>
+            <Number>3010</Number>
+            <Street>N 2nd St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85012</Zip>
+            <NearstAirport>Sky Harbor</NearstAirport>
+        </Address>
+        <Rating>8.0</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>Embassy Suites by Hilton Phoenix Downtown North</Name>
+        <Phone>602-222-1111</Phone>
+        <Address>
+            <Number>10</Number>
+            <Street>E Thomas Rd</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85012</Zip>
+            <NearstAirport>Sky Harbor</NearstAirport>
+        </Address>
+        <Rating>9.2</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>Best Western Downtown Phoenix</Name>
+        <Phone>620-452-2020</Phone>
+        <Address>
+            <Number>620</Number>
+            <Street>N 6th St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85004</Zip>
+            <NearstAirport>Sky Harbor</NearstAirport>
+        </Address>
+        <Rating>8.4</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>Contemporary Condo in Central Biltmore</Name>
+        <Phone>602-470-0500</Phone>
+        <Address>
+            <Number>2019</Number>
+            <Street>E Turney Ave</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85016</Zip>
+            <NearstAirport>Sky Harbor</NearstAirport>
+        </Address>
+        <Rating>9.6</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>Hyatt Place Phoenix Downtown</Name>
+        <Phone>602-388-4888</Phone>
+        <Address>
+            <Number>150</Number>
+            <Street>W Adams St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85003</Zip>
+            <NearstAirport>Sky Harbor</NearstAirport>
+        </Address>
+        <Rating>9.0</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>Moxy Phoenix Downtown</Name>
+        <Phone>623-291-1200</Phone>
+        <Address>
+            <Number>116</Number>
+            <Street>S Central Ave</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85004</Zip>
+            <NearstAirport>Sky Harbor</NearstAirport>
+        </Address>
+        <Rating>8.8</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>Global Luxury Suites at Downtown Phoenix</Name>
+        <Phone>602-470-0500</Phone>
+        <Address>
+            <Number>817</Number>
+            <Street>N 6th St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85004</Zip>
+            <NearstAirport>Sky Harbor</NearstAirport>
+        </Address>
+        <Rating>8.4</Rating>
+    </Hotel>
+
+</Hotels>
