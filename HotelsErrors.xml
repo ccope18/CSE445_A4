@@ -1,6 +1,6 @@
 ﻿<Hotel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://tempuri.org/XMLSchema1.xsd https://raw.githubusercontent.com/ccope18/CSE445_A4/refs/heads/main/Hotels.xsd">
+    xsi:schemaLocation="http://tempuri.org/XMLSchema1.xsd https://ccope18.github.io/CSE445_A4/Hotels.xsd">
   <Hotel>
     <Name>Aloft Phoenix Airport</Name>
     <Phone>602-275-6300</Phone>
