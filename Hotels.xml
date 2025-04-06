@@ -1,6 +1,7 @@
 ﻿<Hotels
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://tempuri.org/XMLSchema1.xsd https://ccope18.github.io/CSE445_A4/Hotels.xsd">
+    xsi:schemaLocation="http://tempuri.org/XMLSchema1.xsd https://ccope18.github.io/CSE445_A4/Hotels.xsd"
+     xmlns="http://tempuri.org/XMLSchema1.xsd">
 <Hotel>
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
